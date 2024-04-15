@@ -1,0 +1,11 @@
+credentials = {
+    user = <username>
+    pass = <token>
+}
+
+origin = {
+    ref = heaveless/dotfiles
+    branch = termux
+}
+
+links = [nvim, zsh]
