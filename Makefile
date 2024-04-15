@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -std=c11
 SRC_DIR = src
-TARGET = rebbon
+TARGET = ribbon
 
 .PHONY: all clean run
 
